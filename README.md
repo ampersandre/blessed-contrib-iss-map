@@ -1,0 +1,1 @@
+<img src="./docs/images/preview.gif" alt="term" width="800"/>
